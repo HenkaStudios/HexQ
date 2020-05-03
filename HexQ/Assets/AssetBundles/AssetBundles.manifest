@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1924544281
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bacteriophage
+      Dependencies: {}
+    Info_1:
+      Name: pollen
+      Dependencies: {}
+    Info_2:
+      Name: lactobacillus
+      Dependencies: {}
+    Info_3:
+      Name: covid19
+      Dependencies: {}
